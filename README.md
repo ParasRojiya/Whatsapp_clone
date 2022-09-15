@@ -1,16 +1,11 @@
-# whatsapp_clone
+# Whatsapp Clone
 
-A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/ParasRojiya/Whatsapp_clone/blob/master/assets/outputimages/whatsapp_android_chats.jpg" style="height:550px"/>   <img src="https://github.com/ParasRojiya/Whatsapp_clone/blob/master/assets/outputimages/whatsapp_android_status.jpg" style="height:550px"/>  <img src="https://github.com/ParasRojiya/Whatsapp_clone/blob/master/assets/outputimages/whatsapp_android_calls.jpg" style="height:550px"/>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/ParasRojiya/Whatsapp_clone/blob/master/assets/outputimages/whatsapp_ios_status.jpg" style="height:550px"/>  <img src="https://github.com/ParasRojiya/Whatsapp_clone/blob/master/assets/outputimages/whatsapp_ios_calls.jpg" style="height:550px"/>  <img src="https://github.com/ParasRojiya/Whatsapp_clone/blob/master/assets/outputimages/whatsapp_ios_chats.jpg" style="height:550px"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img src="https://github.com/ParasRojiya/Whatsapp_clone/blob/master/assets/outputimages/whatsapp_ios_settings.jpg" style="height:550px"/>
